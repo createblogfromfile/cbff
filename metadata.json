@@ -1,0 +1,5 @@
+{
+  "name": "Jekyll-like Markdown Site Generator",
+  "description": "A simple, themeable static site generator that reads and displays Markdown files. Themes can be configured via a ui.json file, and the project is open-source, created by Dhruv Gowda.",
+  "requestFramePermissions": []
+}

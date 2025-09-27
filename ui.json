@@ -1,0 +1,11 @@
+{
+  "colors": {
+    "background": "gray-900",
+    "surface": "gray-800",
+    "primary": "sky-500",
+    "hover": "sky-600",
+    "textPrimary": "gray-100",
+    "textSecondary": "gray-400",
+    "border": "gray-700"
+  }
+}

@@ -70,7 +70,7 @@ Example `ui.json`:
   }
 }
 ```
-More themes at (themes.md)[https://github.com/createblogfromfile.cbff/blob/main/themes.md]
+More themes at [themes.md](https://github.com/createblogfromfile.cbff/blob/main/themes.md)
 
 ## Author
 

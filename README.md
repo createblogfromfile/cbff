@@ -1,4 +1,4 @@
-# CBFF
+# My Blog
 
 A simple, themeable, client-side blog engine built with React and Tailwind CSS. This project allows you to display content from Markdown files in a clean, configurable interface without needing a backend.
 
@@ -53,7 +53,7 @@ And here is the rest of your Markdown content. The parser supports simple header
 
 ### Theming
 
-To change the look and feel of the site, edit the `ui.json` file. You can specify different [Tailwind CSS color names](https://tailwindcss.com/docs/customizing-colors) to change the theme.
+To change the look and feel of the site, edit the `ui.json` file. You can specify different [Tailwind CSS color names](https://tailwindcss.com/docs/customizing-colors) to change the theme. For a list of pre-made themes you can use, see the `themes.md` file.
 
 Example `ui.json`:
 
@@ -70,6 +70,7 @@ Example `ui.json`:
   }
 }
 ```
+More themes at (themes.md)[https://github.com/createblogfromfile.cbff/blob/main/themes.md]
 
 ## Author
 

@@ -1,4 +1,4 @@
-# My Blog
+# CBFF
 
 A simple, themeable, client-side blog engine built with React and Tailwind CSS. This project allows you to display content from Markdown files in a clean, configurable interface without needing a backend.
 
